@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T09:10:23.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="hQ_FvOZhXum09pa1pRmX" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-17T09:12:38.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="QqSgfJlUYKhe9bBe1htI" version="20.8.5" type="github">
   <diagram id="wpnwCKBw_cfsAzz8YiA_" name="第 1 页">
     <mxGraphModel dx="1562" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -508,9 +508,14 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1055" y="2660" />
-              <mxPoint x="1350" y="2660" />
-              <mxPoint x="1350" y="3130" />
+              <mxPoint x="1360" y="2660" />
+              <mxPoint x="1360" y="3130" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObrMERf1OWDemQOV2m8i-23" value="修改响应包&lt;br&gt;绕过第一层验证" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="ObrMERf1OWDemQOV2m8i-22">
+          <mxGeometry x="-0.1119" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ObrMERf1OWDemQOV2m8i-1" value="发送验证码&lt;br&gt;&lt;span style=&quot;color: var(--base-color-brand); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot; data-testid=&quot;resolvedVariable&quot; spellcheck=&quot;false&quot; class=&quot;resolvedVariable&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot; data-offset-key=&quot;67ng6-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;/passport/rear/send?inputMobile=&lt;br&gt;校验手机号码合法性&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;strokeWidth=2;" vertex="1" parent="1">
@@ -536,8 +541,8 @@
         <mxCell id="ObrMERf1OWDemQOV2m8i-15" value="userId&lt;br&gt;smsKey&lt;br&gt;smsCode&lt;br&gt;confirmKey&lt;br&gt;phone" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ObrMERf1OWDemQOV2m8i-9" target="ObrMERf1OWDemQOV2m8i-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ObrMERf1OWDemQOV2m8i-9" value="生成二次校验码" style="whiteSpace=wrap;html=1;rounded=0;comic=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="995" y="2890" width="120" height="60" as="geometry" />
+        <mxCell id="ObrMERf1OWDemQOV2m8i-9" value="/tmc/users/current/verification&lt;br&gt;生成二次校验码confirmKey" style="whiteSpace=wrap;html=1;rounded=0;comic=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="967.5" y="2888" width="175" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ObrMERf1OWDemQOV2m8i-11" value="结束" style="whiteSpace=wrap;html=1;rounded=0;comic=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1225" y="2820" width="100" height="47.5" as="geometry" />
