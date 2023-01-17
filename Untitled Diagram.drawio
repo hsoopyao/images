@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T09:12:38.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="QqSgfJlUYKhe9bBe1htI" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-17T10:06:32.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="4cilc2Kd4minbSmnQ_uA" version="20.8.5" type="github">
   <diagram id="wpnwCKBw_cfsAzz8YiA_" name="第 1 页">
     <mxGraphModel dx="1562" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -496,70 +496,108 @@
         </mxCell>
         <mxCell id="ObrMERf1OWDemQOV2m8i-3" value="KEY + CODE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;comic=1;" edge="1" parent="1" source="ObrMERf1OWDemQOV2m8i-1">
           <mxGeometry x="-0.0769" y="5" relative="1" as="geometry">
-            <mxPoint x="1055" y="2700" as="targetPoint" />
+            <mxPoint x="1345" y="2700" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1055" y="2610" />
-              <mxPoint x="1055" y="2610" />
+              <mxPoint x="1345" y="2610" />
+              <mxPoint x="1345" y="2610" />
             </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ObrMERf1OWDemQOV2m8i-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ObrMERf1OWDemQOV2m8i-1" target="ObrMERf1OWDemQOV2m8i-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1055" y="2660" />
-              <mxPoint x="1360" y="2660" />
-              <mxPoint x="1360" y="3130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ObrMERf1OWDemQOV2m8i-23" value="修改响应包&lt;br&gt;绕过第一层验证" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="ObrMERf1OWDemQOV2m8i-22">
-          <mxGeometry x="-0.1119" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ObrMERf1OWDemQOV2m8i-1" value="发送验证码&lt;br&gt;&lt;span style=&quot;color: var(--base-color-brand); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot; data-testid=&quot;resolvedVariable&quot; spellcheck=&quot;false&quot; class=&quot;resolvedVariable&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot; data-offset-key=&quot;67ng6-1-0&quot;&gt;&lt;span data-text=&quot;true&quot;&gt;/passport/rear/send?inputMobile=&lt;br&gt;校验手机号码合法性&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="950" y="2490" width="210" height="80" as="geometry" />
+          <mxGeometry x="1240" y="2490" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ObrMERf1OWDemQOV2m8i-10" value="T" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ObrMERf1OWDemQOV2m8i-7" target="ObrMERf1OWDemQOV2m8i-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ObrMERf1OWDemQOV2m8i-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ObrMERf1OWDemQOV2m8i-7" target="ObrMERf1OWDemQOV2m8i-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ObrMERf1OWDemQOV2m8i-13" value="F" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="ObrMERf1OWDemQOV2m8i-12">
-          <mxGeometry x="-0.1993" y="-3" relative="1" as="geometry">
-            <mxPoint y="-3" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ObrMERf1OWDemQOV2m8i-19" value="Feign RPC" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ObrMERf1OWDemQOV2m8i-7" target="ObrMERf1OWDemQOV2m8i-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ObrMERf1OWDemQOV2m8i-7" value="身份校验&lt;br style=&quot;border-color: var(--border-color); color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;/tmc/users/current/verification&lt;br&gt;校验手机验证码&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;comic=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="938.75" y="2697.5" width="232.5" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="ObrMERf1OWDemQOV2m8i-15" value="userId&lt;br&gt;smsKey&lt;br&gt;smsCode&lt;br&gt;confirmKey&lt;br&gt;phone" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ObrMERf1OWDemQOV2m8i-9" target="ObrMERf1OWDemQOV2m8i-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ObrMERf1OWDemQOV2m8i-9" value="/tmc/users/current/verification&lt;br&gt;生成二次校验码confirmKey" style="whiteSpace=wrap;html=1;rounded=0;comic=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="967.5" y="2888" width="175" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ObrMERf1OWDemQOV2m8i-11" value="结束" style="whiteSpace=wrap;html=1;rounded=0;comic=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1225" y="2820" width="100" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="ObrMERf1OWDemQOV2m8i-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ObrMERf1OWDemQOV2m8i-14" target="ObrMERf1OWDemQOV2m8i-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ObrMERf1OWDemQOV2m8i-21" value="Feign RPC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="ObrMERf1OWDemQOV2m8i-20">
-          <mxGeometry x="0.1778" relative="1" as="geometry">
+        <mxCell id="ObrMERf1OWDemQOV2m8i-19" value="Feign RPC" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" target="ObrMERf1OWDemQOV2m8i-18">
+          <mxGeometry x="-0.3418" relative="1" as="geometry">
+            <mxPoint x="1228.75" y="2755" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ObrMERf1OWDemQOV2m8i-14" value="重新绑定手机号&lt;br&gt;/tmc/users/current/bindPhone" style="whiteSpace=wrap;html=1;rounded=0;comic=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="952.5" y="3090" width="205" height="80" as="geometry" />
+        <mxCell id="ObrMERf1OWDemQOV2m8i-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ObrMERf1OWDemQOV2m8i-18" target="ObrMERf1OWDemQOV2m8i-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ObrMERf1OWDemQOV2m8i-18" value="sidecar模块&lt;br&gt;smsServiceClient.validate&lt;br&gt;1.判断confirmKey&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2.校验手机验证码" style="whiteSpace=wrap;html=1;rounded=0;comic=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="660" y="2717.5" width="157.5" height="75" as="geometry" />
+        <mxCell id="ObrMERf1OWDemQOV2m8i-18" value="sidecar模块&lt;br&gt;smsServiceClient.validate" style="whiteSpace=wrap;html=1;rounded=0;comic=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="2813" width="157.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="ObrMERf1OWDemQOV2m8i-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ObrMERf1OWDemQOV2m8i-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="905" y="3080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObrMERf1OWDemQOV2m8i-31" value="T" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="ObrMERf1OWDemQOV2m8i-28">
+          <mxGeometry x="0.1285" y="2" relative="1" as="geometry">
+            <mxPoint y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObrMERf1OWDemQOV2m8i-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ObrMERf1OWDemQOV2m8i-25" target="ObrMERf1OWDemQOV2m8i-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ObrMERf1OWDemQOV2m8i-32" value="F" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="ObrMERf1OWDemQOV2m8i-30">
+          <mxGeometry x="0.284" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObrMERf1OWDemQOV2m8i-25" value="confirmKey是否为空" style="rhombus;whiteSpace=wrap;html=1;rounded=0;comic=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="963.12" y="2940" width="151.25" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ObrMERf1OWDemQOV2m8i-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="905" y="3160" as="sourcePoint" />
+            <mxPoint x="905" y="3300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObrMERf1OWDemQOV2m8i-36" value="userId&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;smsKey&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;smsCode&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;confirmKey&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;phone" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="ObrMERf1OWDemQOV2m8i-35">
+          <mxGeometry x="-0.21" y="-4" relative="1" as="geometry">
+            <mxPoint x="4" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObrMERf1OWDemQOV2m8i-27" value="sidecar模块&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;smsServiceClient.validate&lt;br&gt;校验手机验证码&lt;br&gt;生成二次校验码" style="whiteSpace=wrap;html=1;rounded=0;comic=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="827" y="3080" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ObrMERf1OWDemQOV2m8i-29" value="sidecar模块&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;smsServiceClient.validate&lt;br&gt;校验手机验证码" style="whiteSpace=wrap;html=1;rounded=0;comic=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="3080" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ObrMERf1OWDemQOV2m8i-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ObrMERf1OWDemQOV2m8i-34" target="ObrMERf1OWDemQOV2m8i-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ObrMERf1OWDemQOV2m8i-41" value="Feign RPC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="ObrMERf1OWDemQOV2m8i-40">
+          <mxGeometry x="-0.2473" y="3" relative="1" as="geometry">
+            <mxPoint x="10" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObrMERf1OWDemQOV2m8i-34" value="重新绑定手机号&lt;br&gt;/tmc/users/current/bindPhone" style="whiteSpace=wrap;html=1;rounded=0;comic=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="799.5" y="3300" width="205" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ObrMERf1OWDemQOV2m8i-37" value="身份校验&lt;br style=&quot;border-color: var(--border-color); color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;/tmc/users/current/verification&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;校验手机验证码" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;strokeWidth=2;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="2700" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ObrMERf1OWDemQOV2m8i-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ObrMERf1OWDemQOV2m8i-39" target="ObrMERf1OWDemQOV2m8i-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ObrMERf1OWDemQOV2m8i-39" value="sidecar模块&lt;br&gt;validConfirmKey" style="whiteSpace=wrap;html=1;rounded=0;comic=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="3305" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ObrMERf1OWDemQOV2m8i-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ObrMERf1OWDemQOV2m8i-42" target="ObrMERf1OWDemQOV2m8i-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1380" y="3490" />
+              <mxPoint x="1380" y="2851" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObrMERf1OWDemQOV2m8i-45" value="不存在 &amp;amp;&amp;amp; 回填 ConfirmKey" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="ObrMERf1OWDemQOV2m8i-44">
+          <mxGeometry x="-0.2474" y="2" relative="1" as="geometry">
+            <mxPoint x="2" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ObrMERf1OWDemQOV2m8i-47" value="存在" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ObrMERf1OWDemQOV2m8i-42" target="ObrMERf1OWDemQOV2m8i-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ObrMERf1OWDemQOV2m8i-42" value="判断confirmKey有效性&lt;br&gt;一次性" style="rhombus;whiteSpace=wrap;html=1;rounded=0;comic=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1117.5" y="3440" width="165" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ObrMERf1OWDemQOV2m8i-46" value="验证码错误或过期" style="whiteSpace=wrap;html=1;rounded=0;comic=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="3640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
